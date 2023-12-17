@@ -10,7 +10,7 @@ Fecha: 18/12/2023
 	
 ## **LA HIBRIDACIÓN POR LEV MANOVICH**
 
-**Lev Manovich** es autor de libros sobre teoría de nuevos medios, profesor de informática en City University of New York, Graduate Center, Estados Unidos y profesor visitante en la European Graduate School en Saas-Fee, Suiza. La investigación y la enseñanza de Manovich se centra en las humanidades digitales, la informática social, el arte y la teoría de los nuevos medios, y los estudios de software.​[^1]
+**Lev Manovich** es autor de libros sobre teoría de nuevos medios, profesor de informática en City University of New York, Graduate Center, Estados Unidos y profesor visitante en la European Graduate School en Saas-Fee, Suiza. La investigación y la enseñanza de Manovich se centra en las humanidades digitales, la informática social, el arte y la teoría de los nuevos medios, y los estudios de software.​
 
 En este artículo, analizaremos dos casos concretos que ilustran el concepto de hibridación, según Lev Manovich (2013): Ring Fit Adventure y la Exposición Últimos días en Pompeya.
 
@@ -50,7 +50,7 @@ Este tipo de exposiciones que actualmente están en auge, son todo un ejemplo de
 
 Como dice Lev Manovich en su libro:
 
->"El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes".> (Manovich, 2013) [^3]
+>"El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes". (Manovich, 2013)
 
 ### CONCLUSIONES
 
