@@ -3,6 +3,7 @@
 ### RECUSO DE APRENDIZAJE DE CULTURA DIGITAL
 
 Autor: Javier Martínez Sánchez
+
 Fecha: 18/12/2023
 
 ![Fotografía Lev Manovich](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg/1200px-Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)
@@ -62,7 +63,7 @@ Esta exposición inmersiva esta dotada de varias salas:
 
 Este tipo de exposiciones que actualmente estan en auge, son todo un ejemplo de hibridación, al combinar una exposición tradicional y el uso de las nuevas tecnologias para crear una experiencia inmersiva de los asistentes.
 
-[ Video promocional Ultimos dias de Pompeya] (https://www.youtube.com/watch?v=ywGC-RZm38k)
+![ Video promocional Ultimos dias de Pompeya](https://www.youtube.com/watch?v=ywGC-RZm38k)
 
 
 
