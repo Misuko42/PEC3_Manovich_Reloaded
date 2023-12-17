@@ -16,7 +16,7 @@ En este artículo, analizaremos dos casos concretos que ilustran el concepto de 
 
 En su libro "El software toma el mando" Lev Manovich (2013) define la hibridación como: 
 
->Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas (Manovich, 2013).[^2]
+>"Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas" (Manovich, 2013).[^2]
 
 ### Redescubriendo la hibridación: ***RING FIT ADVENTURE***
 
