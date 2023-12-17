@@ -63,8 +63,7 @@ Esta exposición inmersiva esta dotada de varias salas:
 
 Este tipo de exposiciones que actualmente estan en auge, son todo un ejemplo de hibridación, al combinar una exposición tradicional y el uso de las nuevas tecnologias para crear una experiencia inmersiva de los asistentes.
 
-![ Video promocional Ultimos dias de Pompeya] (https://www.youtube.com/watch?v=ywGC-RZm38k)
-
+![Ultimos dias Pompeya](https://img.youtube.com/vi/ywGC-RZm38k/0.jpg)](https://www.youtube.com/watch?v=ywGC-RZm38k)
 
 
 ### CONCLUSIONES
@@ -84,3 +83,5 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
 - _Ring Fit AdventureTM para la consola Nintendo SwitchTM – sitio oficial_. (s. f.). Ring Fit AdventureTM for Nintendo SwitchTM. https://ringfitadventure.nintendo.com/es/https://ringfitadventure.nintendo.com/es/
 - Colaboradores de Wikipedia. (2023, 6 octubre). _Ring Fit Adventure_. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Ring_Fit_Adventure
 - Madrid Artes Digitales. (2023, 14 diciembre). _Pompeya – Madrid Artes Digitales_. https://madridartesdigitales.com/agenda/pompeya/?gad_source=1&gclid=Cj0KCQiAj_CrBhD-ARIsAIiMxT-H1vM40E_VS4ByqapZY9BV96vn2YfTVsdR76v_FM1CBFQV4wbNlNUaAmTdEALw_wcB
+- 
+
