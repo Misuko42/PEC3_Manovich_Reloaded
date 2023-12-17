@@ -65,7 +65,7 @@ Este tipo de exposiciones que actualmente estan en auge, son todo un ejemplo de 
 
 ![Ultimos dias Pompeya](https://img.youtube.com/vi/ywGC-RZm38k/0.jpg)
 
-<a href="https://www.youtube.com/watch?v=ywGC-RZm38k"
+<a href="https://www.youtube.com/watch?v=ywGC-RZm38k">
 
 
 ### CONCLUSIONES
