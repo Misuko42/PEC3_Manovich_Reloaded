@@ -69,3 +69,4 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
 - _Ring Fit AdventureTM para la consola Nintendo SwitchTM – sitio oficial_. (s. f.). Ring Fit AdventureTM for Nintendo SwitchTM. https://ringfitadventure.nintendo.com/es/https://ringfitadventure.nintendo.com/es/
 - Colaboradores de Wikipedia. (2023, 6 octubre). _Ring Fit Adventure_. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Ring_Fit_Adventure
 - Madrid Artes Digitales. (2023, 14 diciembre). _Pompeya – Madrid Artes Digitales_. https://madridartesdigitales.com/agenda/pompeya/?gad_source=1&gclid=Cj0KCQiAj_CrBhD-ARIsAIiMxT-H1vM40E_VS4ByqapZY9BV96vn2YfTVsdR76v_FM1CBFQV4wbNlNUaAmTdEALw_wcB
+- 
