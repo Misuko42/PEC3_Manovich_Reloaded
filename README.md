@@ -14,7 +14,7 @@ El doctor Lev Manovich es artista, teórico y crítico especialista en nuevos me
 
 En su libro "El software toma el mando" Lev Manovich define la hibridación como:
 
-<**
+
 
 
 
@@ -48,8 +48,9 @@ Esta exposición inmersiva esta dotada de varias salas:
 
 Este tipo de exposiciones que actualmente están en auge, son todo un ejemplo de hibridación, al combinar una exposición tradicional y el uso de las nuevas tecnologías para crear una experiencia inmersiva de los asistentes.
 
+Como dice Lev Manovich en su libro:
 
-
+>"El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes".> (Manovich, 2013) 
 
 ### CONCLUSIONES
 
