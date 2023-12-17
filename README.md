@@ -41,7 +41,7 @@ Esta exposición inmersiva está dotada de varias salas:
 - **Realidad Virtual:** en esta sala, es una de las salas más grande hasta la fecha de realidad virtual donde se accede al anfiteatro de la ciudad y en la que se presencia una lucha de gladiadores. Los visitantes están sentados en sillas y en los que se les coloca unas gafas de realidad virtual.
 
 - **Sala del Metaverso:** en esta sala, al visitante se le coloca unas gafas de realidad virtual y se convierte en un "avatar" en el que puede caminar libremente por la ciudad e interectuar con el espacio.  
-- 
+
 - **Sala de Exposición:**: esta sala, la mas convencional, se exponen tanto piezas originales como replicas.
 
 Estas exposiciones, que actualmente están en auge, son también un gran ejemplo de hibridación, al combinar una exposición convencional con el empleo de las nuevas tecnologías, logrando así una experiencia inmersiva única para los asistentes.
