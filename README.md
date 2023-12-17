@@ -10,13 +10,13 @@ Fecha: 18/12/2023
 	
 ## **LA HIBRIDACIÓN POR LEV MANOVICH**
 
-El doctor Lev Manovich es artista, teórico y crítico especialista en nuevos medios. Ha escrito varios libros y más de treinta artículos que han sido traducidos a diversos idiomas y publicados en dieciocho países. En sus textos, Manovich sitúa a los nuevos medios dentro de un contexto más amplio de la cultura visual moderna, relacionándolos con la historia del arte y del cine.
+**Lev Manovich** es autor de libros sobre teoría de nuevos medios, profesor de informática en City University of New York, Graduate Center, Estados Unidos y profesor visitante en la European Graduate School en Saas-Fee, Suiza. La investigación y la enseñanza de Manovich se centra en las humanidades digitales, la informática social, el arte y la teoría de los nuevos medios, y los estudios de software.​^1^
 
-En su libro "El software toma el mando" Lev Manovich define la hibridación como:
+En este artículo, analizaremos dos casos concretos que ilustran el concepto de hibridación, según Lev Manovich (2013): Ring Fit Adventure y la Exposición Últimos días en Pompeya.
 
+En su libro "El software toma el mando" Lev Manovich (2013) define la hibridación como: 
 
-
-
+>Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas (Manovich, 2013).^2^
 
 ### Redescubriendo la hibridación: ***RING FIT ADVENTURE***
 
@@ -26,7 +26,7 @@ En su libro "El software toma el mando" Lev Manovich define la hibridación como
 
 Su singularidad radica en la introducción del accesorio conocido como ***Ring-Con***. Este dispositivo se conecta a uno de los mandos de la consola, mientras que el otro se fija en una cinta adherida a la pierna del jugador, permitiendo la monitorización precisa de los movimientos corporales.
 
-Ring Fit Adventure es un videojuego que su objetivo es promover  la diversión a la vez de mantener activo fisicamente a los jugadores. El jugador se sumerge en un mundo virtual lleno de desafíos mientras realiza ejercicios físicos que van desde flexiones hasta correr en el lugar.
+Ring Fit Adventure es un videojuego que su objetivo es promover  la diversión a la vez de mantener activo físicamente a los jugadores. El jugador se sumerge en un mundo virtual lleno de desafíos mientras realiza ejercicios físicos que van desde flexiones hasta correr en el lugar.
 
 Este videojuego es un claro ejemplo de hibridación, ya que combina elementos de un videojuego tradicional con actividades físicas y de ejercicio. 
 
@@ -36,21 +36,21 @@ Este videojuego es un claro ejemplo de hibridación, ya que combina elementos de
 
 **Ultimos días en Pompeya** es una exposición inmersiva que actualmente se puede disfrutar en MAD (Madrid Artes Digitales) en la nave 16 del centro de experiencias inmersivas del espacio cultural Matadero Madrid.
 
-Esta exposición inmersiva esta dotada de varias salas:
+Esta exposición inmersiva está dotada de varias salas:
 
-- **Sala Inmersiva:** en esta sala se recrea como era la ciudad antes y después de la erupción del volcan, donde se proyecta en 1200 metros cuadros toda la grandiosidad de la ciudad y descubrir como era la vida cotidiana, los comercios de la epoca y los barrios por donde paseaban sus ciudadanos.
+- **Sala Inmersiva:** en esta sala se recrea como era la ciudad antes y después de la erupción del volcán, donde se proyecta en 1200 metros cuadros toda la grandiosidad de la ciudad y descubrir como era la vida cotidiana, los comercios de la época y los barrios por donde paseaban sus ciudadanos.
 
-- **Realidad Virtual:** en esta sala, es una de las salas mas grande hasta la fecha de realidad virtual donde se accede al anfiteatro de la ciudad y en la que se presencia una lucha de gladiadores.
+- **Realidad Virtual:** en esta sala, es una de las salas más grande hasta la fecha de realidad virtual donde se accede al anfiteatro de la ciudad y en la que se presencia una lucha de gladiadores. Los visitantes están sentados en sillas y en los que se les coloca unas gafas de realidad virtual.
 
-- **Sala del Metaverso:** en esta sala, al visitante se le coloca unas gafas de realidad virtual y se convierte en un "avatar" en el que puede caminar libremente por la ciudad e interectuar con el espacio. En ningún momento
-
+- **Sala del Metaverso:** en esta sala, al visitante se le coloca unas gafas de realidad virtual y se convierte en un "avatar" en el que puede caminar libremente por la ciudad e interectuar con el espacio.  
+- 
 - **Sala de Exposición:**: esta sala, la mas convencional, se exponen tanto piezas originales como replicas.
 
 Este tipo de exposiciones que actualmente están en auge, son todo un ejemplo de hibridación, al combinar una exposición tradicional y el uso de las nuevas tecnologías para crear una experiencia inmersiva de los asistentes.
 
 Como dice Lev Manovich en su libro:
 
->"El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes". (Manovich, 2013) 
+>"El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes".> (Manovich, 2013) ^3^
 
 ### CONCLUSIONES
 
