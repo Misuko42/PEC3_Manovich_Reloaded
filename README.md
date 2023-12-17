@@ -10,13 +10,13 @@ Fecha: 18/12/2023
 	
 ## **LA HIBRIDACIÓN POR LEV MANOVICH**
 
-**Lev Manovich** es autor de libros sobre teoría de nuevos medios, profesor de informática en City University of New York, Graduate Center, Estados Unidos y profesor visitante en la European Graduate School en Saas-Fee, Suiza. La investigación y la enseñanza de Manovich se centra en las humanidades digitales, la informática social, el arte y la teoría de los nuevos medios, y los estudios de software.​^1^
+**Lev Manovich** es autor de libros sobre teoría de nuevos medios, profesor de informática en City University of New York, Graduate Center, Estados Unidos y profesor visitante en la European Graduate School en Saas-Fee, Suiza. La investigación y la enseñanza de Manovich se centra en las humanidades digitales, la informática social, el arte y la teoría de los nuevos medios, y los estudios de software.​[^1]
 
 En este artículo, analizaremos dos casos concretos que ilustran el concepto de hibridación, según Lev Manovich (2013): Ring Fit Adventure y la Exposición Últimos días en Pompeya.
 
 En su libro "El software toma el mando" Lev Manovich (2013) define la hibridación como: 
 
->Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas (Manovich, 2013).^2^
+>Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas (Manovich, 2013).[^2]
 
 ### Redescubriendo la hibridación: ***RING FIT ADVENTURE***
 
@@ -50,7 +50,7 @@ Este tipo de exposiciones que actualmente están en auge, son todo un ejemplo de
 
 Como dice Lev Manovich en su libro:
 
->"El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes".> (Manovich, 2013) ^3^
+>"El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes".> (Manovich, 2013) [^3]
 
 ### CONCLUSIONES
 
@@ -69,4 +69,3 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
 - _Ring Fit AdventureTM para la consola Nintendo SwitchTM – sitio oficial_. (s. f.). Ring Fit AdventureTM for Nintendo SwitchTM. https://ringfitadventure.nintendo.com/es/https://ringfitadventure.nintendo.com/es/
 - Colaboradores de Wikipedia. (2023, 6 octubre). _Ring Fit Adventure_. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Ring_Fit_Adventure
 - Madrid Artes Digitales. (2023, 14 diciembre). _Pompeya – Madrid Artes Digitales_. https://madridartesdigitales.com/agenda/pompeya/?gad_source=1&gclid=Cj0KCQiAj_CrBhD-ARIsAIiMxT-H1vM40E_VS4ByqapZY9BV96vn2YfTVsdR76v_FM1CBFQV4wbNlNUaAmTdEALw_wcB
-- 
