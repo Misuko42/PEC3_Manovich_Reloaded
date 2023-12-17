@@ -63,7 +63,7 @@ Esta exposición inmersiva esta dotada de varias salas:
 
 Este tipo de exposiciones que actualmente estan en auge, son todo un ejemplo de hibridación, al combinar una exposición tradicional y el uso de las nuevas tecnologias para crear una experiencia inmersiva de los asistentes.
 
-![ Video promocional Ultimos dias de Pompeya](https://www.youtube.com/watch?v=ywGC-RZm38k)
+![ Video promocional Ultimos dias de Pompeya] (https://www.youtube.com/watch?v=ywGC-RZm38k)
 
 
 
