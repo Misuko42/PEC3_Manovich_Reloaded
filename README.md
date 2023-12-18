@@ -50,14 +50,9 @@ Como dice Lev Manovich en su libro:
 
 >"El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes".> (Manovich, 2013).
 
-### CONCLUSIONES
+### Conclusiones
 
-
-
-
-
-
-
+Mi conclusión es que la hibridación, según Lev Manovich, se materializa a través de los dos casos expuestos. Estos ejemplos concretos resaltan la sinergia entre lo tradicional y lo tecnológico, generando experiencias que trascienden las formas convencionales. La clave está en entender que la hibridación no es solo una suma de partes, sino la creación de algo completamente nuevo que antes no existía, en estos casos, en el ámbito del entretenimiento y la cultura.
 
 ### Bibliografia y Webgrafia
 
@@ -67,4 +62,4 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
 - _Ring Fit AdventureTM para la consola Nintendo SwitchTM – sitio oficial_. (s. f.). Ring Fit AdventureTM for Nintendo SwitchTM. https://ringfitadventure.nintendo.com/es/https://ringfitadventure.nintendo.com/es/
 - Colaboradores de Wikipedia. (2023, 6 octubre). _Ring Fit Adventure_. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Ring_Fit_Adventure
 - Madrid Artes Digitales. (2023, 14 diciembre). _Pompeya – Madrid Artes Digitales_. https://madridartesdigitales.com/agenda/pompeya/?gad_source=1&gclid=Cj0KCQiAj_CrBhD-ARIsAIiMxT-H1vM40E_VS4ByqapZY9BV96vn2YfTVsdR76v_FM1CBFQV4wbNlNUaAmTdEALw_wcB
-- 
+- Colaboradores de Wikipedia. (2023b, octubre 23). _Lev Manovich_. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Lev_Manovich
