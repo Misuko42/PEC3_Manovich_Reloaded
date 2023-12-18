@@ -44,7 +44,7 @@ Esta exposición inmersiva está dotada de varias salas:
 
 - **Sala de Exposición:**: esta sala, la mas convencional, se exponen tanto piezas originales como replicas.
 
-Estas exposiciones, que actualmente están en auge, son también un gran ejemplo de hibridación, al combinar una exposición convencional con el empleo de las nuevas tecnologías, logrando así una experiencia inmersiva única para los asistentes.
+Estas exposiciones, que actualmente están en auge, son también un gran ejemplo de hibridación, al combinar una exposición convencional con el empleo de las nuevas tecnologías, logrando así una experiencia inmersiva tanto visual como cultural única para los asistentes.
 
 Como dice Lev Manovich en su libro:
 
