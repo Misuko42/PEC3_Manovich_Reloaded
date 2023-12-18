@@ -24,7 +24,7 @@ En este artículo, analizaremos dos casos concretos que ilustran el concepto de 
 
 Su singularidad radica en la introducción del accesorio conocido como ***Ring-Con***. Este dispositivo se conecta a uno de los mandos de la consola, mientras que el otro se fija en una cinta adherida a la pierna del jugador, permitiendo la monitorización precisa de los movimientos corporales.
 
-Ring Fit Adventure es un videojuego que su objetivo es promover  la diversión a la vez de mantener activo físicamente a los jugadores. El jugador se sumerge en un mundo virtual lleno de desafíos mientras realiza ejercicios físicos que van desde flexiones hasta correr en el lugar.
+Ring Fit Adventure es un videojuego que su objetivo es promover  la diversión a la vez que mantener activos a los jugadores. El jugador se sumerge en un mundo virtual lleno de desafíos mientras realiza ejercicios físicos que van desde flexiones hasta correr en el lugar.
 
 Este videojuego combina aspectos de los videojuegos convencionales con dispositivos de seguimiento ( Ring-Con) y actividades físicas, ejemplificando claramente el concepto de hibridación en la industria del entretenimiento interactivo.
 
@@ -32,7 +32,7 @@ Este videojuego combina aspectos de los videojuegos convencionales con dispositi
 
 ![Sala Inmersiva](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/09/06/16940275772564.jpg)
 
-**Ultimos días en Pompeya** es una exposición inmersiva que actualmente se puede disfrutar en MAD (Madrid Artes Digitales) en la nave 16 del centro de experiencias inmersivas del espacio cultural Matadero Madrid.
+**Ultimos días en Pompeya** es una exposición inmersiva que actualmente se puede disfrutar en MAD (Madrid Artes Digitales) en la nave 16 del centro de experiencias inmersivas del espacio cultural Matadero Madrid
 
 Esta exposición inmersiva está dotada de varias salas:
 
@@ -40,9 +40,9 @@ Esta exposición inmersiva está dotada de varias salas:
 
 - **Realidad Virtual:** en esta sala, es una de las salas más grande hasta la fecha de realidad virtual donde se accede al anfiteatro de la ciudad y en la que se presencia una lucha de gladiadores. Los visitantes están sentados en sillas y en los que se les coloca unas gafas de realidad virtual.
 
-- **Sala del Metaverso:** en esta sala, al visitante se le coloca unas gafas de realidad virtual y se convierte en un "avatar" en el que puede caminar libremente por la ciudad e interectuar con el espacio.  
+- **Sala del Metaverso:** en esta sala, al visitante se le colocan unas gafas de realidad virtual convirtiéndose en un "avatar" que puede caminar libremente por la ciudad e interectuar con el espacio.  
 
-- **Sala de Exposición:**: esta sala, la mas convencional, se exponen tanto piezas originales como replicas.
+- **Sala de Exposición:** esta sala, la mas convencional, se exponen tanto piezas originales como replicas.
 
 Estas exposiciones, que actualmente están en auge, son también un gran ejemplo de hibridación, al combinar una exposición convencional con el empleo de las nuevas tecnologías, logrando así una experiencia inmersiva tanto visual como cultural única para los asistentes.
 
