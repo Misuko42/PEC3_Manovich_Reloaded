@@ -48,7 +48,8 @@ Estas exposiciones, que actualmente están en auge, son también un gran ejemplo
 
 Como dice Lev Manovich en su libro:
 
->"El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes".> (Manovich, 2013).
+>"El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes".
+(Manovich, 2013).
 
 ### Conclusiones
 
